@@ -577,9 +577,6 @@ const Home = (props: HomeProps) => {
                                 Explorer</SolExplorerLink>}
                         </NFT>
                     </DesContainer>
-                    <DesContainer>
-
-                    </DesContainer>
                 </MintContainer>
             </MainContainer>
             <Snackbar
